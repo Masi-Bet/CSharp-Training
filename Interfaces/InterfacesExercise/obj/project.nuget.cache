@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "V7rCagOMees=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MasibongeM\\OneDrive - HollywoodBets\\Documents\\CSharp-Training\\Interfaces\\InterfacesExercise\\InterfacesExcercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MasibongeM\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\MasibongeM\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://pkgs.dev.azure.com/BETSoftwareO365/_packaging/BETPackages/nuget/v3/index.json.",
+      "projectPath": "C:\\Users\\MasibongeM\\OneDrive - HollywoodBets\\Documents\\CSharp-Training\\Interfaces\\InterfacesExercise\\InterfacesExcercise.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\MasibongeM\\OneDrive - HollywoodBets\\Documents\\CSharp-Training\\Interfaces\\InterfacesExercise\\InterfacesExcercise.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
