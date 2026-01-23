@@ -8,10 +8,10 @@ public class SportEvent
      public int Id { get; set; }
      
     [Required]
-	public string Title { get; set; } = "";
+	public string Title { get; set; } = String.Empty;
 	
 	[Required]     
-	public string Sport { get; set; } = ""; 
+	public string Sport { get; set; } = String.Empty; 
 	     
 	[Display(Name = "Start Time")]     
 	public DateTime StartAt { get; set; }
