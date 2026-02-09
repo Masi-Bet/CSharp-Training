@@ -225,3 +225,6 @@ public class EventsController : Controller
     }
 }
 ```
+### MS Docs
+- [Dependency Injection in ASP.NET CORE](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection)
+- [Dependency Injection .NET - Overview](https://learn.microsoft.com/en-us/dotnet/core/extensions/dependency-injection/)
